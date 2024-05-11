@@ -93,6 +93,9 @@ Source10:       60-%{fontpkgname}.conf
 %fontfiles
 
 %changelog
+* Sat May 11 2024 Alexander GriefNorth Postol <grief.north@gmail.com> 3.2.1-1
+- new package built with tito
+
 * Sat May 11 2024 GriefNorth <grief.north@gmail.com> - 3.2.1-1
 - Bump version 3.2.1
 * Sat Apr 19 2023 Astrawan Wayan <astrawan@icloud.com> - 2.3.3-1
